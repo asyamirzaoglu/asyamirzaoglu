@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Enhancing my React Native skills and collaborating on challenging projects that push the boundaries of mobile and web development.**
 
-- 📫 How to reach me **Email me at asyaamirzaoglu@gmail.com for any inquiries or collaboration opportunities. You can also check out my portfolio at [https://asyamirzaoglu.com](https://asyamirzaoglu.com).**
+- 📫 How to reach me: **Email me at asyaamirzaoglu@gmail.com for any inquiries or collaboration opportunities. You can also check out my portfolio at [https://asyamirzaoglu.com](https://asyamirzaoglu.com).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
