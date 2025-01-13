@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asya Mirzaoğlu</h1>
+<h1 align="center">Hi 👋🏼, I'm Asya Mirzaoğlu</h1>
 <h3 align="center">Computer engineer focused on solving problems with technology and creating user-centered solutions</h3>
 
 - 🔭 I’m currently working on **Developing mobile applications with a focus on Kotlin and exploring React Native for cross-platform.**
