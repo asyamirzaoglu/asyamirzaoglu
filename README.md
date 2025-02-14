@@ -23,11 +23,11 @@
 
 <h3 align="left">Languages Used & GitHub Stats:</h3>
 <span style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-    <span style="background-color: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://github-readme-stats.vercel.app/api?username=asyamirzaoglu&show_icons=true&locale=en" alt="GitHub Stats" />
-    </span>
      <span style="background-color: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyamirzaoglu&layout=compact&theme=white" alt="Languages Used" />
+    </span>
+      <span style="background-color: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <img src="https://github-readme-stats.vercel.app/api?username=asyamirzaoglu&show_icons=true&locale=en" alt="GitHub Stats" />
     </span>
 </span>
 
